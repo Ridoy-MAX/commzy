@@ -1,0 +1,11 @@
+﻿[14/08/23 00:58:21] info: Program: Starting Squirrel Updater: --createShortcut atom.exe -l Desktop,StartMenu
+[14/08/23 00:58:21] info: ApplyReleasesImpl: About to create shortcuts for atom.exe, rootAppDir C:\Users\pou4w\AppData\Local\atom
+[14/08/23 00:58:22] info: ApplyReleasesImpl: Creating shortcut for atom.exe => C:\Users\pou4w\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc.\Atom.lnk
+[14/08/23 00:58:22] info: ApplyReleasesImpl: About to save shortcut: C:\Users\pou4w\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc.\Atom.lnk (target C:\Users\pou4w\AppData\Local\atom\atom.exe, workingDir C:\Users\pou4w\AppData\Local\atom\app-1.60.0, args , toastActivatorCSLID f859ea73-8d1d-59d0-89d7-06ee420a371f)
+[14/08/23 00:58:22] info: ApplyReleasesImpl: Creating shortcut for atom.exe => C:\Users\pou4w\OneDrive\Desktop\Atom.lnk
+[14/08/23 00:58:22] info: ApplyReleasesImpl: About to save shortcut: C:\Users\pou4w\OneDrive\Desktop\Atom.lnk (target C:\Users\pou4w\AppData\Local\atom\atom.exe, workingDir C:\Users\pou4w\AppData\Local\atom\app-1.60.0, args , toastActivatorCSLID f859ea73-8d1d-59d0-89d7-06ee420a371f)
+[14/08/23 00:58:22] info: ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+[14/08/23 00:58:22] info: ApplyReleasesImpl: Examining Pin: Microsoft Edge.lnk
+[14/08/23 00:58:22] info: ApplyReleasesImpl: Examining Pin: Task Manager.lnk
+[14/08/23 00:58:22] info: ApplyReleasesImpl: Examining Pin: WPS Office.lnk
+[14/08/23 00:58:22] info: Program: Finished Squirrel Updater
